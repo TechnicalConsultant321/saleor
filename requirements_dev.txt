@@ -11,7 +11,7 @@ authlib==1.0.1
 authorizenet==1.1.4
 azure-common==1.1.28
 azure-core==1.24.2; python_version >= "3.6"
-azure-storage-blob==12.12.0; python_version >= "3.6"
+azure-storage-blob==12.13.0; python_version >= "3.6"
 azure-storage-common==2.1.0
 babel==2.10.3; python_version >= "3.6"
 beautifulsoup4==4.7.1
